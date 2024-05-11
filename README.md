@@ -2,7 +2,7 @@
 ![gif tecnologia](https://github.com/Guilherme5ilva/Projeto-Imers-o-I.A/blob/main/Design%20sem%20nome.gif)
 
 ## NOVAS TECNOLOGIAS E INOVAÇÃO PARA A TRANSFORMAÇÃO DIGITAL DAS EMPRESAS
-Muitas empresas se encontram em uma encruzilhada crucial: reconhecem a necessidade de se adaptar à era digital, mas não possuem o conhecimento ou as ferramentas para fazê-lo de forma eficaz.
+
 Esse chatbot foi projetado para impulsionar empresas em sua jornada de transformação digital, ele compreende as necessidades únicas do seu negócio e oferece soluções personalizadas utilizando tecnologias inovadoras como realidade aumentada, realidade virtual, metaverso, simuladores, IA, tours interativos, conteúdo audiovisual e totens interativos. Seja para aprimorar suas estratégias de marketing, treinar funcionários de forma mais eficaz ou agilizar suas operações, nosso chatbot pode te ajudar a alcançar seus objetivos e desvendar um mundo de possibilidades.
 
 # Exemplo:
@@ -19,8 +19,10 @@ Nosso chatbot entende a necessidade e oferece varias soluções que vai desde um
 
 
 
-## A transformação digital não é mais uma opção, mas uma necessidade para as empresas que desejam prosperar no futuro. Com o nosso chatbot inovador, as empresas podem superar a lacuna do conhecimento, abraçar as novas tecnologias e desbloquear um mundo de possibilidades para o sucesso.
+### A transformação digital não é mais uma opção, mas uma necessidade para as empresas que desejam prosperar no futuro. Com o nosso chatbot inovador, as empresas podem superar a lacuna do conhecimento, abraçar as novas tecnologias e desbloquear um mundo de possibilidades para o sucesso.
+
 
 ## Junte-se a nós nesta jornada emocionante e prepare sua empresa para o futuro!
+
 
 VOTE NO NOSSO PROJETO E NOS AJUDE A LEVAR A INOVAÇÃO E TECNOLOGIAS PARA AS EMPRESAS
